@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing_master_harman", "Racing_master_harman\Racing_master_harman.csproj", "{2773BE59-4FBA-4224-93F8-A52993AB9E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing_master_harmanTests", "Racing_master_harmanTests\Racing_master_harmanTests.csproj", "{3D280D90-D61A-4118-88AD-F9EF968CEFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2773BE59-4FBA-4224-93F8-A52993AB9E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2773BE59-4FBA-4224-93F8-A52993AB9E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2773BE59-4FBA-4224-93F8-A52993AB9E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2773BE59-4FBA-4224-93F8-A52993AB9E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D280D90-D61A-4118-88AD-F9EF968CEFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D280D90-D61A-4118-88AD-F9EF968CEFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D280D90-D61A-4118-88AD-F9EF968CEFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D280D90-D61A-4118-88AD-F9EF968CEFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3C6AD2-EDF8-4CDF-9CFB-F3D849DC4149}
+	EndGlobalSection
+EndGlobal
